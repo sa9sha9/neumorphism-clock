@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+button,
+select,
+input,
+textarea {
+  border: 0;
+  outline: 0;
+}
